@@ -1,4 +1,4 @@
-**# hannu**
+**hannu**
 *The trusted human layer for AI agents.*
 Your AI agent hires KYC-verified Operators for real-world tasks — field checks, photos, data, calls, surveys — with funds escrow-locked first, proof verified by AI + human review, and naira payouts within the hour. We never custody funds.
 
