@@ -7,7 +7,7 @@ Your AI agent hires KYC-verified Operators for real-world tasks — field checks
 - 🧰 `hannu-sdk-{ts,python}` — typed SDKs
 - 📚 [Docs & quickstart](https://hannu.africa/developers) · [API reference](…) · [`llms.txt`](https://hannu.africa/llms.txt)
 - 🟢 [Status](…)
-- 
+  
 **What you can build** → agent recipes, examples, the Verified report.
 **Trust** → [how escrow + verification work](https://hannu.africa/trust).
 
